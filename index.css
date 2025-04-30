@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    background-color: rgb(139, 86, 21);
+
+}
+
+h1{
+    color: yellow;
+}
+p{
+    color: yellow; 
+    font-size: large;
+    margin: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: dotted;
+    text-align: left;
+}
+.strogonoff{
+height: 520px;
+}
